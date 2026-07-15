@@ -75,7 +75,7 @@ Windows stores them in .evtx files.
 
 C:\Windows\System32\winevt\Logs\
 
-* Examples:
+# Examples:
 
 - Security.evtx
 - System.evtx
@@ -130,7 +130,7 @@ We'll spend most of our time on the Security log because it's the primary source
 - Level
 - Description
 
-* Example:
+# Example:
 
 Event ID: 4625
 
@@ -146,14 +146,14 @@ DESKTOP-01
 Description:
 An account failed to log on.
 
-* This tells you:
+# This tells you:
 - What happened? Failed logon.
 - Who? Administrator.
 - When? 10:35:21 AM.
 - Where? DESKTOP-01.
 - How SOC Analysts Use These Logs
 
-* When an alert comes in, analysts ask:
+# When an alert comes in, analysts ask:
 
 - What happened?
 - When did it happen?
