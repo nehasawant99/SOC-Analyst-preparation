@@ -116,11 +116,10 @@ For now, focus on these three.
 - System	Operating system events	Driver issues, startup, shutdown, services
 - Application	Application events	Browser crashes, database errors, software logs
 
-We'll spend most of our time on the Security log because it's the primary source for many SOC investigations.
+Fact: We'll spend most of our time on the Security log because it's the primary source for many SOC investigations.
 
 # What Information Does an Event Contain?
-
-* Every event has fields such as:
+Every event has fields such as:
 
 - Event ID
 - Date & Time
@@ -163,3 +162,5 @@ An account failed to log on.
 - Is this normal or suspicious?
 
 The answers usually come from Windows Event Logs.
+
+
