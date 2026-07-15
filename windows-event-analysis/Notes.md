@@ -168,7 +168,6 @@ The answers usually come from Windows Event Logs.
 
 # 1. What is a Windows Event Log?
 Your answer:
-
 The action user perform on window laptop day to day task that track down by the window event log.
 
 * Feedback:
@@ -232,7 +231,7 @@ Event Viewer
 Path:
 
 Start
-   ↓
+   ---->
 Event Viewer
 or
 eventvwr.msc
