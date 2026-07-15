@@ -166,7 +166,7 @@ The answers usually come from Windows Event Logs.
 
 # Mini Knowledge Check:
 
-1. What is a Windows Event Log?
+# 1. What is a Windows Event Log?
 Your answer
 
 The action user perform on window laptop day to day task that track down by the window event log.
@@ -184,22 +184,21 @@ An application crashing
 
 
 
-2. Why are logs important in a SOC?
-Your answer
-
+# 2. Why are logs important in a SOC?
+* Your answer
 In soc anything suspicious happened log help soc analysts to investigate the alert and why and how if alert relevant.
 
 * Feedback
 A SOC analyst's job is based on evidence, and logs are one of the primary sources of that evidence.
 
-A stronger answer:
+* A stronger answer:
 Logs provide evidence of what happened on a system. SOC analysts use them to investigate alerts, identify malicious activity, determine the scope of an incident, and decide whether an alert is a true positive or a false positive.
 Notice the phrase true positive vs. false positive—you'll use that frequently in SOC work.
 
 
 
-3. Which log would you check for failed login attempts?
-Your answer
+# 3. Which log would you check for failed login attempts?
+* Your answer
 I will check the security log...
 
 * Feedback
@@ -209,8 +208,8 @@ For failed logins, you'll soon learn the specific Event ID:
 We'll spend an entire lesson on this event because it's one of the most common events investigated in a SOC.
 
 
-4. Where are .evtx files stored?
-Your answer
+# 4. Where are .evtx files stored?
+* Your answer
 Windows\System32\winevt\logs\
 
 * Feedback
@@ -221,14 +220,14 @@ Note: These .evtx files can be exported and analysed in forensic investigations.
 
 
 
-5. What tool is used on Windows to view these logs?
-Your answer
+# 5. What tool is used on Windows to view these logs?
+* Your answer
 The SIEM tools...
 
 * Feedback
 The question asked specifically about the tool on Windows used to view logs.
 
-The correct answer is:
+* The correct answer is:
 Event Viewer
 Path:
 
