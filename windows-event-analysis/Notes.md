@@ -1,6 +1,6 @@
 # Module 1 – Windows Event Logs
 
-# Understand:
+# Learning goal:
 
 - What Windows Event Logs are
 - Why they exist
