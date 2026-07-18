@@ -180,3 +180,119 @@ Instead of immediately assuming an attack, ask:
 * Did any login eventually succeed?
 
 That's how analysts investigate.
+
+
+
+
+Mini Exercise
+
+# Scenario 1
+Microsoft Word crashes.
+
+- Which log? System log
+
+
+
+# Scenario 2
+Someone tried logging in with the wrong password.
+
+- Which log?  Security log
+
+
+
+# Scenario 3
+Windows Update failed.
+
+- Which log? Setup log
+
+
+
+# Scenario 4
+The laptop suddenly rebooted.
+
+- Which log? Setup log
+
+
+
+# Scenario 5
+A new user account was created.
+
+- Which log? Security log
+
+# REVIEW OF ANSWER
+- The answers to Scenario 1 and Scenario 4 were wrong
+
+# IMPROVEMENTS
+That's perfectly fine. The two mistakes are common because it's easy to think "Windows is involved, so it must be the System log." The better way to think is:
+
+- Application Log → Problems with software like Word, Chrome, SQL Server.
+- System Log → Problems with Windows itself, hardware, drivers, and services.
+- Security Log → User accounts, logins, permissions, and auditing.
+- Setup Log → Windows installation and updates.
+
+
+# Investigation Challenge
+
+## Scenario
+
+A user reported:
+- Failed to log in five times.
+- Successfully logged in on the sixth attempt.
+- Laptop restarted unexpectedly a few minutes later.
+
+---
+
+## 1. Which logs would you investigate first?
+
+- Security Log
+- System Log
+
+> Note: Check the Setup Log only if there is evidence of Windows Update or software installation.
+
+---
+
+## 2. Why these logs?
+
+**Security Log**
+- Investigate multiple failed logins.
+- Verify whether the successful login was legitimate.
+- Identify the user account and login activity.
+
+**System Log**
+- Determine why the system restarted.
+- Check for crashes, driver issues, or unexpected shutdown events.
+
+---
+
+## 3. Investigation Questions
+
+- Was the successful login from the same user?
+- Did the login come from the same computer or IP?
+- How much time passed between the failed attempts?
+- Did Windows install updates before the restart?
+- Were any unusual processes or activities observed after login?
+
+---
+
+## 4. Initial Assessment
+
+At this stage, I would **not** conclude it is a cyberattack.
+
+Possible explanations include:
+- User entered the wrong password multiple times.
+- Brute-force attack.
+- Windows update caused the restart.
+- System crash or hardware issue.
+
+Further investigation and evidence are required before concluding.
+
+---
+
+## Key Learning
+
+- Start with evidence, not assumptions.
+- Review the relevant logs.
+- Build a timeline.
+- Determine the root cause before deciding whether the activity is malicious.
+
+
