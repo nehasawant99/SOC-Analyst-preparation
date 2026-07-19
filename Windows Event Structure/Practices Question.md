@@ -1,59 +1,48 @@
-Mini Exercise
-Event
-Event ID: 4625
+# Mini Investigation Exercise
 
-Time: 09:20 AM
+### Event
 
-Computer: PC-101
+* **Event ID:** 4625
+* **Time:** 09:20 AM
+* **Computer:** PC-101
+* **User:** Admin
+* **Level:** Information
+* **Description:** An account failed to log on.
 
-User: Admin
+---
 
-Level: Information
+### Questions & Answers
 
-Description: An account failed to log on.
-1. What happened?
+**1. What happened?**
 
-Answer:
+* **Answer:** An account failed to log on.
+* **Status:** ✅ Correct
 
-An account failed to log on.
+**2. Which user was involved?**
 
-✅ Correct
+* **Answer:** Admin was the user involved.
+* **Status:** ✅ Correct
 
-2. Which user was involved?
+**3. Which computer generated the event?**
 
-Answer:
+* **Answer:** PC-101 generated the event.
+* **Status:** ✅ Correct
 
-Admin was the user involved.
+**4. At what time did it happen?**
 
-✅ Correct
+* **Answer:** 09:20 AM
+* **Status:** ✅ Correct
 
-3. Which computer generated the event?
+**5. Can you conclude this is a cyberattack?**
 
-Answer:
+* **Answer:** We cannot conclude it is a cyberattack. Maybe the Admin mistyped the password. To conclude whether it is an attack, we need more evidence and data from the logs.
+* **Status:** ✅ Excellent thinking.
 
-PC-101 generated the event.
+---
 
-✅ Correct
+# Learning
 
-4. At what time did it happen?
-
-Answer:
-
-09:20 AM
-
-✅ Correct
-
-5. Can you conclude this is a cyberattack?
-
-Answer:
-
-We cannot conclude it is a cyberattack. Maybe the Admin mistyped the password. To conclude whether it is an attack, we need more evidence and data from the logs.
-
-✅ Excellent thinking.
-
-
-Learning
-One failed login does not mean a cyberattack.
-Always collect more evidence before concluding.
-Review additional logs and related events to understand what happened.
-Build a timeline before deciding whether the activity is normal or suspicious.
+* One failed login does not mean a cyberattack.
+* Always collect more evidence before concluding.
+* Review additional logs and related events to understand what happened.
+* Build a timeline before deciding whether the activity is normal or suspicious.
