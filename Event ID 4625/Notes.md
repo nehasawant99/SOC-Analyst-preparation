@@ -33,7 +33,7 @@ Event ID 4625 is generated.
 
 ```
 
-* **Status:** ✅ Normal activity
+* **Status:**  Normal activity
 
 ### Example 2 – Forgotten Password
 
@@ -51,7 +51,7 @@ Three Event ID 4625 logs are generated.
 
 ```
 
-* **Status:** ✅ Normal activity
+* **Status:**  Normal activity
 
 ### Example 3 – Brute-Force Attack
 
@@ -66,7 +66,7 @@ Hundreds of Event ID 4625 events are generated.
 
 ```
 
-* **Status:** ⚠️ Suspicious activity
+* **Status:**  Suspicious activity
 
 ---
 
@@ -125,7 +125,7 @@ Is this user known? Is this a real employee? Is this an administrator account? I
 
 Suppose you see **Event ID: 4625**.
 
-Don't immediately say: ❌ **"It's a hacker."**
+Don't immediately say:  **"It's a hacker."**
 
 **Instead ask:**
 
