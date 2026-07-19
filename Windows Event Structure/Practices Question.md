@@ -66,17 +66,17 @@
 
 **1. What happened?**
 
-* **Your Answer (Refined):** User John attempted to log in to the account, but the logon failed.
+* **Your Answer :** User John attempted to log in to the account, but the logon failed.
 * **Status:**  Correct
 
 **2. Which user was involved?**
 
-* **Your Answer (Refined):** John was the user involved.
+* **Your Answer :** John was the user involved.
 * **Status:**  Correct
 
 **3. Which computer generated the event?**
 
-* **Your Answer (Refined):** DESKTOP-01 generated the event.
+* **Your Answer :** DESKTOP-01 generated the event.
 * **Status:**  Correct
 
 **4. At what time did it happen?**
@@ -86,7 +86,7 @@
 
 **5. Is this enough evidence to conclude it is a cyberattack? Why?**
 
-* **Your Answer (Refined):** No. There is not enough evidence to conclude it is a cyberattack. It could simply be a failed login attempt. I would investigate further and check whether the user logged in successfully afterward or if there were multiple failed login attempts.
+* **Your Answer :** No. There is not enough evidence to conclude it is a cyberattack. It could simply be a failed login attempt. I would investigate further and check whether the user logged in successfully afterward or if there were multiple failed login attempts.
 * **Status:**  Excellent.
 
 > **Mentor Feedback (10/10):** The best sentence was: *"Let see if user login after that."* That is exactly what analysts do. They ask: **What happened next?**
