@@ -97,14 +97,12 @@
 
 ### Event
 
-* **Event ID: 4688
-* **Time: 11:45 AM
-* **Computer: HR-PC
-* **User: Alice
-* **Level: Information
-* **Description:
-A new process has been created.
-
+* **Event ID:** 4688
+* **Time:** 11:45 AM
+* **Computer:** HR-PC
+* **User:** Alice
+* **Level:** Information
+* **Description:** A new process has been created.
 
 ---
 
@@ -112,7 +110,7 @@ A new process has been created.
 
 **1. What happened?**
 
-* **Your Answer (Refined):** User Alice created a new process on the system.
+* **Your Answer :** User Alice created a new process on the system.
 * **Status:**  Correct.
 * **Improvement Note:** Windows is telling you a process was created, but it doesn't always mean the user manually launched it. For example, opening Chrome, running Windows services, or executing scripts all create processes. It is more accurate to say: *A new process was created under Alice's account.*
 
