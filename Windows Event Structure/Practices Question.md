@@ -16,27 +16,27 @@
 **1. What happened?**
 
 * **Answer:** An account failed to log on.
-* **Status:** ✅ Correct
+* **Status:** Correct
 
 **2. Which user was involved?**
 
 * **Answer:** Admin was the user involved.
-* **Status:** ✅ Correct
+* **Status:** Correct
 
 **3. Which computer generated the event?**
 
 * **Answer:** PC-101 generated the event.
-* **Status:** ✅ Correct
+* **Status:** Correct
 
 **4. At what time did it happen?**
 
 * **Answer:** 09:20 AM
-* **Status:** ✅ Correct
+* **Status:** Correct
 
 **5. Can you conclude this is a cyberattack?**
 
 * **Answer:** We cannot conclude it is a cyberattack. Maybe the Admin mistyped the password. To conclude whether it is an attack, we need more evidence and data from the logs.
-* **Status:** ✅ Excellent thinking.
+* **Status:** Excellent thinking.
 
 ---
 
