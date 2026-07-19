@@ -97,8 +97,14 @@
 
 ### Event
 
-* **Event ID:** 4688
-* **Description:** A new process has been created.
+* **Event ID: 4688
+* **Time: 11:45 AM
+* **Computer: HR-PC
+* **User: Alice
+* **Level: Information
+* **Description:
+A new process has been created.
+
 
 ---
 
