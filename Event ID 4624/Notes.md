@@ -47,7 +47,7 @@ Event ID 4624 is generated
 
 ```
 
-* **Status:** ✅ Normal
+* **Status:**  Normal
 
 ### Example 2 – Office Employee
 
@@ -62,7 +62,7 @@ Event ID 4624 is generated
 
 ```
 
-* **Status:** ✅ Expected activity
+* **Status:**  Expected activity
 
 ### Example 3 – Attacker
 
@@ -80,7 +80,7 @@ Event ID 4624
 
 ```
 
-* **Status:** ⚠️ Also generates Event ID 4624.
+* **Status:**  Also generates Event ID 4624.
 
 > **Key takeaway:** This is why analysts never assume every successful login is legitimate.
 
