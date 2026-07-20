@@ -176,3 +176,16 @@ A successful login becomes suspicious when:
 * It comes from an unusual IP.
 * It is followed by suspicious activity.
 * It involves a privileged account unexpectedly.
+
+# Learning Summary
+4624 = Successful logon.
+
+A successful login is not automatically safe.
+
+Always consider:
+* Who logged in?
+* When?
+* Where?
+* What happened afterwards?
+* Build a timeline before concluding.
+* Use 4624 and 4625 together to understand authentication events
