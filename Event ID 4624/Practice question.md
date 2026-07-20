@@ -11,12 +11,12 @@
 
 **1. What happened?**
 
-* **Your Answer (Refined):** Alice successfully logged into her office computer before work started.
+* **Your Answer:** Alice successfully logged into her office computer before work started.
 * **Status:**  Correct
 
 **2. Is this normal or suspicious?**
 
-* **Your Answer (Refined):** It could be suspicious, but I cannot conclude that from this event alone. I need more information to determine whether the login is expected or unusual.
+* **Your Answer:** It could be suspicious, but I cannot conclude that from this event alone. I need more information to determine whether the login is expected or unusual.
 * **Status:**  Good answer.
 
 > **Why?**
@@ -33,12 +33,12 @@
 
 **3. Would you investigate further?**
 
-* **Your Answer (Refined):** Yes. I would collect more evidence, such as whether Alice was the person who logged in, the source IP address, the computer used, and whether this login matches her normal activity.
+* **Your Answer:** Yes. I would collect more evidence, such as whether Alice was the person who logged in, the source IP address, the computer used, and whether this login matches her normal activity.
 * **Status:**  Excellent.
 
 **4. Why?**
 
-* **Your Answer (Refined):** Because the login happened before work started. I would investigate whether this is normal for Alice or if it is unusual. I need to gather more data and evidence before making a conclusion.
+* **Your Answer:** Because the login happened before work started. I would investigate whether this is normal for Alice or if it is unusual. I need to gather more data and evidence before concluding.
 * **Status:**  Correct.
 
 ---
