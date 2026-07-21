@@ -142,3 +142,11 @@ Don't ask only: **"Did someone log in?"**
 Also ask: **"How did they log in?"**
 
 That one question can completely change the direction of your investigation.
+
+# There are different account types:
+
+- User Accounts – Alice, John, Neha
+- Administrator Accounts – Admin, Administrator
+- Service Accounts – SQLService, BackupService, IISService
+- Computer Accounts – Used by Windows machines in a domain
+**NOTE**: Confusing between the service logon it handles by the system or certain applications not by the user (Human)
