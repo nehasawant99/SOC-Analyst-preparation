@@ -149,4 +149,4 @@ That one question can completely change the direction of your investigation.
 - Administrator Accounts – Admin, Administrator
 - Service Accounts – SQLService, BackupService, IISService
 - Computer Accounts – Used by Windows machines in a domain
-**NOTE**: Confusing between the service logon it handles by the system or certain applications not by the user (Human)
+* **NOTE**: Confusing between the service logon it handles by the system or certain applications not by the user (Human)
