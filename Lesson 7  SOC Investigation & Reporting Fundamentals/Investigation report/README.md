@@ -22,7 +22,7 @@ Each report in this repository follows a standard SOC reporting template:
 | Report ID | Topic / Scenario | Primary Focus | Status |
 | --- | --- | --- | --- |
 | **Project 01** | Authentication & Persistence | Failed Logons (4625), RDP (Type 10), PowerShell Execution, Defender Alert | Completed |
-| **Project 02** | *[Next Scenario]* | *[e.g., Credential Dumping / Lateral Movement]* | In Progress |
+| **Project 02** | *[Next Scenario]* | *[e.g.,..]* | In Progress |
 
 ---
 
@@ -41,8 +41,8 @@ Use this section to track key investigative skills to master across all practice
 
 *  **Objective Language:** Avoid absolute claims like *"This is a cyberattack."* Use precise language like *"Appears unusual,"* *"Could indicate,"* or *"Requires further investigation."*
 *  **Concise Summaries:** Keep Incident Summaries strictly within 2–4 lines.
-*  **Prioritized Actions:** Categorise recommendations clearly based on risk and urgency.
+*  ** Prioritised Actions:** Categorise recommendations clearly based on risk and urgency.
 
 ---
 ### Key takeaways:
-''' This is for learning and educational purposes to understand, learn and build skills. '''
+> This is for learning and educational purposes to understand, learn and build skills.
